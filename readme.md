@@ -8,6 +8,18 @@ Escribir sobre nosotros ...
 
 Hacer el cierre de la presentacion, invitando a contactar ... 
 
+## Technologies
+
+- HTML
+- CSS
+- JS
+
+
 ## Skills
 
 -Coaching 
+
+## Hobbies 
+
+-Dancing 
+
