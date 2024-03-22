@@ -23,3 +23,7 @@ Hacer el cierre de la presentacion, invitando a contactar ...
 
 -Dancing 
 
+## Languages
+ - English
+ - Spanish
+ - Portuguese
