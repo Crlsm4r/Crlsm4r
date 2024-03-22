@@ -13,3 +13,7 @@ Hacer el cierre de la presentacion, invitando a contactar ...
 - HTML
 - CSS
 - JS
+
+## Hobbies 
+
+-Dancing 
